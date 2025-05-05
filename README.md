@@ -11,4 +11,5 @@ A striking, interactive single-page bio section with:
 
 ## 🚀 Live Demo
 
-![BioYT](https://github.com/user-attachments/assets/03f29cf6-3968-45ed-9de8-38e710b162c2)
+
+![BioYT](https://github.com/user-attachments/assets/94473caa-4ab0-41a8-866f-9b73710d821d)
