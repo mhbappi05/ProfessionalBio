@@ -128,7 +128,6 @@ body {
 }
 
 
-
 /* BUTTON */
 .btn {
     display: inline-block;
@@ -162,7 +161,7 @@ body {
     transition: box-shadow .3s;
 }
 
-.profile-wrapper img:hover {
+.profile-wrapper:hover img {
     animation: neonGlow 1.2s ease infinite alternate;
 }
 
@@ -227,39 +226,6 @@ body {
 
     100% {
         transform: rotate(360deg);
-    }
-}
-
-@keyframes fadeInSlide {
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-
-@keyframes glitch {
-    0% {
-        text-shadow: 2px 0 #f0f, -2px 0 #0ff;
-    }
-
-    20% {
-        text-shadow: -2px 2px #f0f, 2px -2px #0ff;
-    }
-
-    40% {
-        text-shadow: 2px -2px #f0f, -2px 2px #0ff;
-    }
-
-    60% {
-        text-shadow: -2px 0 #f0f, 2px 0 #0ff;
-    }
-
-    80% {
-        text-shadow: 2px 2px #f0f, -2px -2px #0ff;
-    }
-
-    100% {
-        text-shadow: -2px -2px #f0f, 2px 2px #0ff;
     }
 }
 
